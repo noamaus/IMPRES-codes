@@ -4,7 +4,7 @@
 %%%System requirements: MATLAB has to be installed. 
 %%%Version checked on: MATLAB 2014b, MATLAB 2017b and MATLAB 2018a.
 %%%OS tested: mac OS 10.12.6 ans 10.10.5
-%%%Typical running typme: excluding hilClibming.m, all codes run in a few
+%%%Typical running time: excluding hilClibming.m, all codes run in a few
 %%%minutes or less. 
 %%%hilClibming.m - requires a long running time (typically 4-6 hours), and is
 %%%commented in MAIN_CODES->Feature_selection->PART1 (line 13 with a warning  
@@ -14,7 +14,7 @@
 
 
 %%%%%%%%%%%%MAIN_CODES: Main codes for IMPRES
-%%%Feature selection: Feature senection and construction of IMPRES score 
+%%%Feature selection: Feature selection and construction of IMPRES score 
 %%%using neuroblastoma data (run PART1.m)
 
 %%%Melanoma Prediction: Predict immune response based on IMPRES score
